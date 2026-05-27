@@ -2,7 +2,7 @@
 
 A free assessment for operators who want to know how well their AI environment is actually serving the work they do every day.
 
-Take the test at [showtime.muddventures.com/ai-iq-test](https://showtime.muddventures.com/ai-iq-test).
+Take the test at [iq.muddventures.com/](https://iq.muddventures.com/).
 
 ---
 
@@ -184,7 +184,7 @@ The test itself is free and will stay free. If you find it valuable, the way to 
 
 ## Take the test
 
-[showtime.muddventures.com/ai-iq-test](https://showtime.muddventures.com/ai-iq-test)
+[iq.muddventures.com/](https://iq.muddventures.com/)
 
 ---
 
